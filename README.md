@@ -6,4 +6,5 @@ Files:
 - RDF_URI_node.ipynb: creation of a RDF URI node.
 - loading_RDF_files: Parsing the graph in an RDF file graph from the web, from a file and from a string.
 - Creating_RDF_Graph: creating some URIRefs to represent the properties or predicates in the RDF graph.
+- navigating_RDF:
 
