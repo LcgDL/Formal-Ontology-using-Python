@@ -9,3 +9,7 @@ Files:
 - navigating_RDF: iteration over a graph, checking whether entities exists, retrieving individual triples, entities and values.
 - 
 
+
+
+Web application for the interactive visualization of ontologies:
+http://vowl.visualdataweb.org/webvowl.html 
