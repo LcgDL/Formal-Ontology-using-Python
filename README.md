@@ -8,6 +8,7 @@ Files:
 - Creating_RDF_Graph: creating some URIRefs to represent the properties or predicates in the RDF graph.
 - navigating_RDF: iteration over a graph, checking whether entities exists, retrieving individual triples, entities and values.
 - SPARQL_Query_RDF:
+- SPARQL_Wrapper:
 
 
 
