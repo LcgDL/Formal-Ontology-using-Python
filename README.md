@@ -9,8 +9,6 @@ Files:
 - navigating_RDF: iteration over a graph, checking whether entities exists, retrieving individual triples, entities and values.
 - SPARQL_Query_RDF: parsers and serializers for the RDF format. Graph interface for linked data manipulation. 
 - SPARQL_Wrapper:
-- 
-
 
 
 Web application for the interactive visualization of ontologies:
