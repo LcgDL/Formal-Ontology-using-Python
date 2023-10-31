@@ -18,3 +18,6 @@ http://vowl.visualdataweb.org/webvowl.html
 
 https://www.w3.org/RDF/
 
+https://en.wikibooks.org/wiki/SPARQL/Prefixes
+
+https://query.wikidata.org/
