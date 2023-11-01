@@ -8,7 +8,7 @@ Files:
 - Creating_RDF_Graph: creating some URIRefs to represent the properties or predicates in the RDF graph.
 - navigating_RDF: iteration over a graph, checking whether entities exists, retrieving individual triples, entities and values.
 - SPARQL_Query_RDF: parsers and serializers for the RDF format. Graph interface for linked data manipulation. 
-- SPARQL_Wrapper:
+- SPARQL_Wrapper: querying DBpedia knowledge graph with SPARQLWrapper python library.
 
 
 Web application for the interactive visualization of ontologies:
