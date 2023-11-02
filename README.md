@@ -16,7 +16,7 @@ http://vowl.visualdataweb.org/webvowl.html
 
 DBpedia query: http://dbpedia.org/sparql/
 
-https://www.w3.org/RDF/
+Resource Description Framework: https://www.w3.org/RDF/
 
 https://en.wikibooks.org/wiki/SPARQL/Prefixes
 
