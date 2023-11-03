@@ -18,6 +18,6 @@ DBpedia query: http://dbpedia.org/sparql/
 
 Resource Description Framework: https://www.w3.org/RDF/
 
-https://en.wikibooks.org/wiki/SPARQL/Prefixes
+SPARQL Prefixes: https://en.wikibooks.org/wiki/SPARQL/Prefixes
 
 https://query.wikidata.org/
