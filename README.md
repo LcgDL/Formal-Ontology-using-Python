@@ -20,4 +20,4 @@ Resource Description Framework: https://www.w3.org/RDF/
 
 SPARQL Prefixes: https://en.wikibooks.org/wiki/SPARQL/Prefixes
 
-https://query.wikidata.org/
+Wikidata Query Service: https://query.wikidata.org/
