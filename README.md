@@ -1,5 +1,5 @@
 # Formal-Ontology-using-Python
-Repository to show some basic examples using python applied to ontologies.
+Repository to show some basic examples using python applied to ontologies. We will use RDFLib. It is a pure Python package for working with RDF data.
 
 Files:
 - Resource_Description_Framework_(RDF): first steps in the RDF python library
